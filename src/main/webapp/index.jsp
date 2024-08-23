@@ -24,7 +24,7 @@ float:left;
 <body align="center"  bgcolor="#C6E2FF">
 <div style="background-color:#32CD32;width:100%;height:30px;position:absolute;top:1px;left:1px;z-index:1" class="menu">
 <div class="logo">
-<font color="white" face="verdana" size="5">Campus Recruitment		</font>
+<font color="white" face="verdana" size="5">Campus Recruitment</font>
 </div>
 </div>
 <br><br><br><br><br>
